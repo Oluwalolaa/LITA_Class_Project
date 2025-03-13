@@ -23,15 +23,17 @@ The primary dataset used in this analysis is Health_Insurance_Data.csv, an open-
 
  ### Exploratory Data Analysis
  The analysis aimed to answer critical questions, such as:
-✅ What is the billing trend across different patient demographics?
-✅ How does hospital length of stay vary by diagnosis?
-✅ Which diseases or conditions contribute the most to insurance claims?
-✅ How do billing amounts compare across gender groups?
+- What is the billing trend across different patient demographics?
+- How does hospital length of stay vary by diagnosis?
+- Which diseases or conditions contribute the most to insurance claims?
+- How do billing amounts compare across gender groups?
 
 Through pivot tables and visual dashboards, we gained insights that can drive better policy decisions and improve healthcare cost efficiency.
 
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis; 
+
+### Data Visualisation
 
 
 
